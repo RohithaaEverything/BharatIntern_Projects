@@ -1,2 +1,2 @@
 # BharatIntern_Projects
-Bharat Intern Taska
+Bharat Intern Tasks
